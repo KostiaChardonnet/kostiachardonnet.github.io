@@ -83,3 +83,7 @@ h3 {
   background-color: #666;
   color: white;
 }
+
+.listPapers {
+  list-style: none;
+}
