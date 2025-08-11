@@ -1,0 +1,18 @@
+@InProceedings{chardonnet_et_al:LIPIcs.CSL.2023.13,
+  author =	{Chardonnet, Kostia and Saurin, Alexis and Valiron, Beno\^{i}t},
+  title =	{{A Curry-Howard Correspondence for Linear, Reversible Computation}},
+  booktitle =	{31st EACSL Annual Conference on Computer Science Logic (CSL 2023)},
+  pages =	{13:1--13:18},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-264-8},
+  ISSN =	{1868-8969},
+  year =	{2023},
+  volume =	{252},
+  editor =	{Klin, Bartek and Pimentel, Elaine},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2023.13},
+  URN =		{urn:nbn:de:0030-drops-174747},
+  doi =		{10.4230/LIPIcs.CSL.2023.13},
+  annote =	{Keywords: Reversible Computation, Linear Logic, Curry-Howard}
+}

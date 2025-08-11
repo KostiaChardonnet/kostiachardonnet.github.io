@@ -1,0 +1,18 @@
+@InProceedings{chardonnet_et_al:LIPIcs.FSCD.2024.19,
+  author =	{Chardonnet, Kostia and Lemonnier, Louis and Valiron, Beno\^{i}t},
+  title =	{{Semantics for a Turing-Complete Reversible Programming Language with Inductive Types}},
+  booktitle =	{9th International Conference on Formal Structures for Computation and Deduction (FSCD 2024)},
+  pages =	{19:1--19:19},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-323-2},
+  ISSN =	{1868-8969},
+  year =	{2024},
+  volume =	{299},
+  editor =	{Rehof, Jakob},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.19},
+  URN =		{urn:nbn:de:0030-drops-203487},
+  doi =		{10.4230/LIPIcs.FSCD.2024.19},
+  annote =	{Keywords: Reversible programming, functional programming, Computability, Denotational Semantics}
+}

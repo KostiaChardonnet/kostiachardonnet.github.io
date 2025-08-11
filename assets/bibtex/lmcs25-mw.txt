@@ -1,0 +1,11 @@
+@article{Chardonnet_2025,
+   title={The Many-Worlds Calculus},
+   volume={Volume 21, Issue 2},
+   ISSN={1860-5974},
+   url={http://dx.doi.org/10.46298/lmcs-21(2:13)2025},
+   DOI={10.46298/lmcs-21(2:13)2025},
+   journal={Logical Methods in Computer Science},
+   publisher={Centre pour la Communication Scientifique Directe (CCSD)},
+   author={Chardonnet, Kostia and de Visme, Marc and Valiron, Benoît and Vilmart, Renaud},
+   year={2025},
+   month=may }
