@@ -1,0 +1,9 @@
+@misc{chardonnet2025resourceawarehybridquantumprogramming,
+      title={Resource-Aware Hybrid Quantum Programming with General Recursion and Quantum Control}, 
+      author={Kostia Chardonnet and Emmanuel Hainry and Romain Péchoux and Thomas Vinet},
+      year={2025},
+      eprint={2510.20452},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2510.20452}, 
+}

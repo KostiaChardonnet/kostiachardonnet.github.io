@@ -1,0 +1,9 @@
+@misc{chardonnet2026approximationtheorydistantbang,
+      title={Approximation theory for distant Bang calculus}, 
+      author={Kostia Chardonnet and Jules Chouquet and Axel Kerinec},
+      year={2026},
+      eprint={2601.05199},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2601.05199}, 
+}

@@ -1,0 +1,9 @@
+@misc{chardonnet2025tensorpluscalculus,
+      title={The Tensor-Plus Calculus}, 
+      author={Kostia Chardonnet and Marc de Visme and Benoît Valiron and Renaud Vilmart},
+      year={2025},
+      eprint={2512.21965},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2512.21965}, 
+}
