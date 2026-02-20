@@ -1,0 +1,9 @@
+@misc{chardonnet2026compilingquantumlambdatermscircuits,
+      title={Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction}, 
+      author={Kostia Chardonnet and Ugo Dal Lago and Naohiko Hoshino and Paolo Pistone},
+      year={2026},
+      eprint={2602.17482},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2602.17482}, 
+}
