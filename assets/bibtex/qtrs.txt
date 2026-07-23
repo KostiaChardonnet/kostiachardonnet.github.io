@@ -1,0 +1,9 @@
+@misc{chardonnet2026quantumtermrewritesystems,
+      title={Quantum Term Rewrite Systems: Applications to Complexity Analysis}, 
+      author={Kostia Chardonnet and Emmanuel Hainry and Romain Péchoux and Thomas Vinet},
+      year={2026},
+      eprint={2607.20170},
+      archivePrefix={arXiv},
+      primaryClass={cs.LO},
+      url={https://arxiv.org/abs/2607.20170}, 
+}
