@@ -102,7 +102,7 @@ a:hover {
 }
 
 .schedule td.empty {
-  border: none !important;
+  /* border: none !important; */
   background: transparent;
 }
 
@@ -119,9 +119,39 @@ th {
   font-size: 90%;
 }
 
-.schedule th:not(:first-child),
+
+.schedule td:nth-child(2) {
+  border-bottom: 1px solid #ccc;
+}
+
+.schedule td:nth-child(2),
+.schedule th:nth-child(2) {
+  border-bottom: 1px solid #ccc;
+}
+
+.schedule td:nth-child(2) {
+  border-bottom: 1px solid #ccc !important;
+}
+
+/* .schedule th:not(:first-child),
 .schedule td:not(:first-child) {
   width: 20%; /* cinco columnas iguales */
+}
+*/
+
+.schedule table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.schedule th:first-child,
+.schedule td:first-child {
+  width: 50%;
+}
+
+.schedule th:nth-child(2),
+.schedule td:nth-child(2) {
+  width: 50%;
 }
 
 .lunch {
